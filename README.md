@@ -1,3 +1,4 @@
+```jsx
 return (
   <DaniloLucasMoraesDias
     currentlyWorkingOn="Eduzz as a Senior Front-end and Mobile developer"
@@ -22,3 +23,4 @@ return (
     ]}
   />
 )
+```
