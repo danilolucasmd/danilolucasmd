@@ -1,16 +1,24 @@
-### Hi there 👋
-
-<!--
-**danilolucasmd/danilolucasmd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+return (
+  <DaniloLucasMoraesDias
+    currentlyWorkingOn="Eduzz as a Senior Front-end and Mobile developer"
+    currentlyLearning={[
+      'Clean Architecture',
+      'Hexagonal Architecture',
+      'React Testing',
+    ]}
+    linkedIn="https://www.linkedin.com/in/danilolucasmd"
+    askMeAbout={[
+      'React',
+      'RxJS',
+      'Functional Programming',
+      'Redux',
+      'Unity3D',
+    ]}
+    additionalInformation={[
+      'I like to find the best solutions to the hardest problems',
+      'I\'m aways trying to improve myself',
+      'I like to work with awesome people',
+      'I love games',
+    ]}
+  />
+)
