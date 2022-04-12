@@ -1,7 +1,7 @@
 ```jsx
 return (
   <DaniloLucasMoraesDias
-    currentlyWorkingAs="Senior Frontend and Mobile developer"
+    currentlyWorkingAs="Senior Front-end and Mobile developer"
     currentlyLearning={[
       'Clean Architecture',
       'Hexagonal Architecture',
