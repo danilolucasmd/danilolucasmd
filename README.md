@@ -3,9 +3,9 @@ return (
   <DaniloLucasMoraesDias
     currentlyWorkingAs="Senior Front-end and Mobile developer"
     currentlyLearning={[
-      'Clean Architecture',
-      'Hexagonal Architecture',
-      'React Testing',
+      'SEO and performance optimization',
+      'SSR and RSC',
+      'Hydration and Resumability',
     ]}
     linkedIn="https://www.linkedin.com/in/danilolucasmd"
     askMeAbout={[
@@ -16,7 +16,7 @@ return (
       'Unity3D',
     ]}
     additionalInformation={[
-      'I like to find the best solutions to the hardest problems',
+      'I like to find the best solutions for the hardest problems',
       'I\'m aways trying to improve myself',
       'I like to work with awesome people',
       'I love games',
