@@ -1,7 +1,7 @@
 ```jsx
 return (
   <DaniloLucasMoraesDias
-    currentlyWorkingAs="Senior Front-end and Mobile developer"
+    currentlyWorkingAs="Senior front-end engineer"
     currentlyLearning={[
       'SEO and performance optimization',
       'SSR and RSC',
