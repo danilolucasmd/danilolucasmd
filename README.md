@@ -17,9 +17,8 @@ return (
     ]}
     additionalInformation={[
       'I like to find the best solutions for the hardest problems',
-      'I am aways trying to improve myself',
-      'I like to work with awesome people',
-      'I love games',
+      'I am always trying to improve myself',
+      'I love to work with awesome people',
     ]}
   />
 )
