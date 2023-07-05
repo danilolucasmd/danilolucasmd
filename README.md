@@ -6,14 +6,14 @@ return (
       'SEO and performance optimization',
       'SSR and RSC',
       'Hydration and Resumability',
+      'AI',
     ]}
     linkedIn="https://www.linkedin.com/in/danilolucasmd"
     askMeAbout={[
+      'JavaScript/Typescript',
       'React',
-      'RxJS',
-      'Functional Programming',
-      'Redux',
-      'Unity3D',
+      'Performance optimization',
+      'AI',
     ]}
     additionalInformation={[
       'I like to find the best solutions for the hardest problems',
