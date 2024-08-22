@@ -3,16 +3,14 @@ return (
   <DaniloLucasMoraesDias
     currentlyWorkingAs="Senior front-end engineer"
     currentlyLearning={[
-      'SEO and performance optimization',
-      'SSR and RSC',
-      'Hydration and Resumability',
       'AI',
+      'Growth',
     ]}
     linkedIn="https://www.linkedin.com/in/danilolucasmd"
     askMeAbout={[
       'JavaScript/Typescript',
       'React',
-      'Performance optimization',
+      'SEO and performance optimization',
       'AI',
     ]}
     additionalInformation={[
